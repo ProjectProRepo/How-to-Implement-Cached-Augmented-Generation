@@ -68,9 +68,8 @@ TechFit Pro Smartwatch, SoundBliss NC700, FitRun 360
 Firmware bug caused syncing issues.
 Manufacturer advised users to limit use, offered refunds.
 ```
-
-## Disclaimer
-This notebook uses fictional data and is intended for educational demonstration of Cache-Augmented Generation (CAG). Not suitable for production without further validation, testing, and safeguards.
+## Complete Hands-On Code
+Explore the complete tutorial for implementing Cached Augmented Generation in this article: [Is Cache Augmented Generation a good alternative to RAG?](https://www.projectpro.io/article/cache-augmented-generation/1118).
 
 ## References & Credits
 
